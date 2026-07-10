@@ -1,0 +1,13 @@
+{
+  "professor": "Ruslan Salakhutdinov",
+  "university": "Carnegie Mellon University",
+  "program": "School of Computer Science (incl. Machine Learning Dept.)",
+  "research_area": "Deep learning, generative models, multimodal LLM agents",
+  "representative_paper": "Dropout: A Simple Way to Prevent Neural Networks from Overfitting; 2014; JMLR",
+  "paper_link": "https://scholar.google.com/scholar?q=Dropout%3A+A+Simple+Way+to+Prevent+Neural+Networks+from+Overfitting",
+  "project_family": "language",
+  "focus": "generative models",
+  "value_add_artifact": "citation-faithful RAG and claim-level evaluation harness",
+  "next_step": "Replace seed claims with recent lab papers; add 50-100 expert-reviewable questions.",
+  "generated_for": "professor outreach value-add starter"
+}
